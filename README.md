@@ -17,3 +17,6 @@ git remote set-url origin https://USERNAME:CHAVE_GERADA@github.com/bpvifsc/teste
 Gerar a chave em:
 https://github.com/settings/tokens
 Settings -> Developer Tools -> tokens....
+
+teste
+teste
