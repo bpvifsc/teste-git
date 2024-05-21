@@ -18,8 +18,9 @@ Gerar a chave em:
 https://github.com/settings/tokens
 Settings -> Developer Tools -> tokens....
 
-teste
-teste
-teste..
-alterando.....
-dnv.........
+#Área de conflito
+if (dois editam)
+    conflito!
+else if (usando branch)
+    resolução de conflitos!
+#Fim da área de conflito
