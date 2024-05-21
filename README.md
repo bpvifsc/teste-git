@@ -22,10 +22,7 @@ Settings -> Developer Tools -> tokens....
 ```
 if (dois editam)
     conflito!
-    Novo código linha 25
 else if (usando branch)
     resolução de conflitos!
-    Novo código linha 27
-    Edição na mesma linha 29
 ```
 ## Fim da área de conflito
