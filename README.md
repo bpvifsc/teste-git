@@ -19,8 +19,10 @@ https://github.com/settings/tokens
 Settings -> Developer Tools -> tokens....
 
 # Área de conflito
+```
 if (dois editam)
     conflito!
 else if (usando branch)
     resolução de conflitos!
+```
 ## Fim da área de conflito
