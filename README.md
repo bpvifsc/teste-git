@@ -22,6 +22,7 @@ Settings -> Developer Tools -> tokens....
 ```
 if (dois editam)
     conflito!
+    Algum código dentro do IF
     Mais um código colocado no IF
 else if (usando branch)
     resolução de conflitos!
