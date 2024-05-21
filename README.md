@@ -24,5 +24,6 @@ if (dois editam)
     conflito!
 else if (usando branch)
     resolução de conflitos!
+    Novo código linha 27
 ```
 ## Fim da área de conflito
