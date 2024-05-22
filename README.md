@@ -24,7 +24,7 @@ Settings -> Developer Tools -> tokens....
 ```
 if (dois editam)
     conflito!
-    EDIT 1
+    ESTA É A M2
 else if (usando branch)
     resolução de conflitos!
 ```
