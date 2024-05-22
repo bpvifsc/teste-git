@@ -24,7 +24,7 @@ Settings -> Developer Tools -> tokens....
 ```
 if (dois editam)
     conflito!
-    EDIT 1.2 - M2 - V2
+    ESTA É A M1/M2 merge completo
 else if (usando branch)
     resolução de conflitos!
 ```
