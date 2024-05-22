@@ -8,9 +8,11 @@ Repositório contendo testes no git
 
 Olá git 22/05
 
+teste 2 dia de curso git
 
 
 Para acessar o github com escrita usar:
+
 
 git remote set-url origin https://USERNAME:CHAVE_GERADA@github.com/bpvifsc/teste-git.git/
 
